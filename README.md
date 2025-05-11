@@ -5,7 +5,7 @@ Video présentation du gameplay : https://www.youtube.com/watch?v=PiP7ZgeqVu0
   ## Groupe
   - **Nom** : Florent Belot, Alexis Dubarry, Shanti Noel
 
-# README pour le rendu du 22/04 du cours de 3D game programming : 
+# README : 
 
 
 Jeu : Le jeu est un platformer où l'on incarne un lapin qui a pour but de récupérer des carottes en parcourant des niveaux.
