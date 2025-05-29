@@ -42,17 +42,3 @@ Carotales est un jeu de plateforme 3D dans lequel vous incarnez un lapin aventur
 - **G** : parler aux PNJ.
 - **P** : ouvrir/fermer le livre de quêtes.
 
-## Répartition du travail
-- **Florent Belot** : modélisation du terrain, implémentation Havok, ombres.
-- **Shanti Noel** : animations, mini‑jeu de pêche, interface utilisateur.
-- **Alexis Dubarry** : code principal, intégration du niveau 3, système de quêtes et de boss.
-
-## Problèmes connus
-- Parfois, le premier saut n’est pas pris en compte.
-- Caméra pouvant pénétrer certains décors sous conditions spécifiques.
-- Ajustements mineurs à prévoir sur la physique des plateformes mouvantes.
-
-## Perspectives d’évolution
-- Ajout de nouveaux mini‑jeux et niveaux.
-- Optimisation du rendu et du gameplay.
-- Polish final avant la version Game on Web.
