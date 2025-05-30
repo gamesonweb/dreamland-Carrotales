@@ -46,10 +46,5 @@ Avant de démarrer la partie, vous pouvez personnaliser l’apparence de votre l
 - Les accessoires sélectionnés sont chargés au démarrage du jeu via la variable `accessoriesConfig` et affichés sur votre lapin.
 
 ## Commandes
-- **Z / Q / S / D** : déplacement. (jouable en qwerty)
-- **Espace** : sauter.
-- **E** : interagir.
-- **Q** : compétence Freeze (cooldown : 60 s).
-- **R** : Speedboost (cooldown : 60 s).
-- **G** : parler aux PNJ.
-- **P** : ouvrir/fermer le livre de quêtes.
+- (jouable en qwerty)
+![Logo](commands.png)
