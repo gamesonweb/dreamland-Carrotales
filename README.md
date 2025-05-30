@@ -43,7 +43,6 @@ Avant de démarrer la partie, vous pouvez personnaliser l’apparence de votre l
 - **Bouton Personnaliser** : dans le menu principal, cliquez sur « Customize » pour ouvrir le panneau de personnalisation.
 - **Sélection** : cochez la case de l’accessoire souhaité dans chaque catégorie.
 - **Appliquer / Fermer** : cliquez sur « Appliquer » pour enregistrer vos choix, ou « Fermer » pour annuler.
-- Les accessoires sélectionnés sont chargés au démarrage du jeu via la variable `accessoriesConfig` et affichés sur votre lapin.
 
 ## Commandes
 - (jouable en qwerty)
