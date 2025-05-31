@@ -1,4 +1,4 @@
-![Logo](carotales.png)
+![Logo](carrotales.png)
 
 Jeu hébergé sur : https://shanto0o.github.io/3D-Game-Project-Carotales/
 
