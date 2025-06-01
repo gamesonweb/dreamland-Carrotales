@@ -4,7 +4,7 @@ Jeu hébergé sur : https://shanto0o.github.io/3D-Game-Project-Carotales/
 
 GitHub du projet : https://github.com/Shanto0o/3D-Game-Project-Carotales
 
-Vidéo de présentation du gameplay : https://www.youtube.com/watch?v=PiP7ZgeqVu0
+Trailer : https://www.youtube.com/watch?v=VD92IOL5OIw
 
 ## Groupe
 - **Florent Belot**
