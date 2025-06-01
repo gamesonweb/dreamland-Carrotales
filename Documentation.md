@@ -148,3 +148,11 @@ Inspiré du jeu Stardew Valley, nous avons ajouté une mécanique de pêche dans
 - **Découpage en Zones** :  
   - Le monde est divisé en zones distinctes. Lorsqu’on progresse d’une zone à l’autre, le moteur charge les ressources nécessaires (textures, modèles, sons), et on nettoie tous les meshs entre les différents niveaux.
 
+## 15. Boutiquie : Pouvoir activables et Boosts
+
+- **Sort de gel** : permet de geler les ennemis pendant 5 secondes. Débloquable dans la boutique
+- **Sort de speed** : permet de gagner un boost de vitesse pendant 10 secondes. Débloquable dans la boutique
+- **Boost de range**  qui permet de récolter les carottes de plus loin
+- **Carrot Lover** qui ajoute +1 à la valeur des carottes récupérables
+- **Life Insurance** qui permet au joueur de réapparaître sans délai lorsqu'il meurt dans le vide pour la première fois pendant un niveau
+- **Tip** : donne un pourboire de 10 carottes au marchand. Sert seulement à rendre le marchand plus heureux !
