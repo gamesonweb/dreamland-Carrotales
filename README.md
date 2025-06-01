@@ -14,7 +14,7 @@ Trailer : https://www.youtube.com/watch?v=VD92IOL5OIw
 ## Description
 Carotales est un jeu de plateforme 3D dans lequel vous incarnez un lapin aventurier. Vous êtes à la recherche de la récompense ultime : croquer la Carotte Sacrée. Pour cela, vous allez devoir parcourir différents niveaux, profiter du beau temps pour récolter des carottes et pêcher, et effectuer différentes quêtes qui vont ammeneront à votre rêve !
 
-##Inspirations
+## Inspirations
 Nous avons décidé de faire ce type de jeu car c'est ce que le thème nous inspirait : un monde paisible, où l'on peut se ballader et effectuer des quêtes. Nos principales inspirations pour ce jeu sont les jeux Animal Crossing ( pour l'aspect détente, mignon, avec un peu de temps à perdre à simplement changer d'apparence et regarder notre lapin tout mignon), et Stardew Valley (pour son système de pêche, et l'aspect "stressant" du jeu avec un temps qui passe, qui nous autorise à flaner mais dans un temps imparti).
 
 ## Niveaux
