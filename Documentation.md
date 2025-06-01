@@ -1,5 +1,4 @@
-# Documentation Technique du Jeu
-
+# Documentation du jeu
 Cette documentation présente, à un niveau global, les choix techniques et les fonctionnalités mises en place dans le jeu, sans entrer dans les détails de l’implémentation ou de la structure du code.
 
 ---
