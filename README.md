@@ -1,4 +1,4 @@
-![Logo](carrotales.png)
+![Logo](images/carrotales.png)
 
 Jeu hébergé sur : https://shanto0o.github.io/3D-Game-Project-Carotales/
 
@@ -46,4 +46,4 @@ Avant de démarrer la partie, vous pouvez personnaliser l’apparence de votre l
 
 ## Commandes
 - (jouable en qwerty)
-![Logo](commands.png)
+![Logo](images/commands.png)
