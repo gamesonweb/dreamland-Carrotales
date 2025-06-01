@@ -50,3 +50,21 @@ Avant de démarrer la partie, vous pouvez personnaliser l’apparence de votre l
 ## Commandes
 - (jouable en qwerty)
 ![Logo](images/commands.png)
+
+
+## Visuels
+
+**Quelques screenshot pris dans le jeu**
+
+![screen1](images/Screenshot_1.png)
+![screen2](images/Screenshot_2.png)
+![screen3](images/Screenshot_3.png)
+![screen4](images/Screenshot_4.png)
+![screen5](images/Screenshot_5.png)
+![screen6](images/Screenshot_6.png)
+![screen7](images/Screenshot_7.png)
+![screen8](images/Screenshot_8.png)
+![screen9](images/Screenshot_9.png)
+![screen10](images/Screenshot_10.png)
+
+
