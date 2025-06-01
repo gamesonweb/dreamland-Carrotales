@@ -10,7 +10,7 @@ Trailer : https://www.youtube.com/watch?v=VD92IOL5OIw
 - **Florent Belot**
 - **Shanti Noel**
 - **Alexis Dubarry**
-
+ 
 ## Description
 Carrotales est un jeu de plateforme 3D dans lequel vous incarnez un lapin aventurier. Vous êtes à la recherche de la récompense ultime : croquer la Carotte Sacrée. Pour cela, vous allez devoir parcourir différents niveaux, profiter du beau temps pour récolter des carottes et pêcher, et effectuer différentes quêtes qui vont ammeneront à votre rêve !
 
