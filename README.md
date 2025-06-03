@@ -27,15 +27,6 @@ Nous avons décidé de faire ce type de jeu car c'est ce que le thème nous insp
    - **Combat de boss** : affronter une pinata, subir son explosion, ramasser les bonbons et les déposer pour terminer la quête.
    Une fois les 4 cadenas déverrouillés, le portail disparaît et vous accédez à la Carotte Sacrée.
 
-## Fonctionnalités principales
-- **Moteur physique Havok** avec particules et animations.
-- **Ombres en temps réel** et collision caméra empêchant la traversée des murs.
-- **Synchronisation** du personnage avec les plateformes mouvantes.
-- **Boutique entre les niveaux** : compétences actives (freeze, speedboost) et améliorations passives.
-- **Mini-jeux** : pêche, dés.
-- **Système de quêtes** avec gestion du journal de quêtes (touche P).
-- **Boss final** avec système de loot (bonbons).
-
 
 ## Modèles et animations 
 - **Fait main!** : Nous avons réalisés nous-même presque tous les modèles de notre jeu (lapin, accessoires, mouton, Map de tous les niveaux), et toutes les animations ! 
