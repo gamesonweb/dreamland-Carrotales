@@ -6,6 +6,8 @@ GitHub du projet : https://github.com/Shanto0o/3D-Game-Project-Carotales
 
 Trailer : https://www.youtube.com/watch?v=VD92IOL5OIw
 
+Gameplay complet : https://youtu.be/0H4N6dMqe50
+
 ## Groupe
 - **Florent Belot**
 - **Shanti Noel**
