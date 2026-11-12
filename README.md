@@ -1,6 +1,6 @@
 ![Logo](images/carrotales.png)
 
-Jeu hébergé sur : https://shanto0o.github.io/3D-Game-Project-Carotales/
+Jeu hébergé sur : https://shanto0o.github.io/3D-Game-Project-Carrotales/
 
 GitHub du projet : https://github.com/Shanto0o/3D-Game-Project-Carotales
 
